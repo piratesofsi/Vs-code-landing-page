@@ -60,7 +60,7 @@ vs-code-landing-page/
 
 
 
-[https://piratesofsi.github.io/vs-code-landing-page/](https://piratesofsi.github.io/vs-code-landing-page/)
+[https://piratesofsi.github.io/vs-code-landing-page/](https://piratesofsi.github.io/Vs-code-landing-page/)
 
 
 
