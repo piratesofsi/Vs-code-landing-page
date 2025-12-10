@@ -1,0 +1,257 @@
+ h3{
+      margin: 0px;
+      color: white;
+    }
+    *{
+      margin-top: 0px;
+      margin-left: 0px;
+      margin-right: 0px;
+      margin-bottom: 0px;
+    }
+    #navList{
+      list-style: none;
+      display: flex;
+      justify-content: start;
+      margin-left: 115px;
+      margin-top: 15px;
+      background-color: black;
+      gap: 10px;
+     
+      
+      
+
+    }
+
+   #navList li { 
+    display:flex; 
+    align-items:center;
+    font-family: sans-serif;
+     gap: 10px;
+    }
+
+
+   .navLinks a{
+        text-decoration: none;
+        padding-left: 20px;
+        color: grey;
+         
+   }
+
+   body{
+    background-color: black;
+    
+   }
+
+   
+   .downloadbutton button{
+      background: #0078D4;
+     color: white;
+     padding: 7px 7px;
+     border-radius: 7px;
+     width: 125px;
+      height: 36px;
+      font-weight: 300;
+      font-size: 16px;
+      border: 1px solid #0078D4;
+       transition: transform 0.3s ease; /* Smoothness here */
+     
+   }
+   .downloadbutton button:hover{
+    background-color: #0078D4;
+    transform:scale(1.1);
+    transition: 0.3s linear;
+    cursor: pointer;
+    
+   }
+   .downloadbutton{
+    margin-left: auto;
+   }
+
+   .searchdocs input{
+    margin-left: 200px;
+    padding: 5px 5px;
+    width: 170px;
+    height: 24px;
+    border-radius: 4px;
+   
+      border: 1px solid #333;   /* clean dark border */
+     background:#0d0d0d;       /* dark background like vscode */
+    
+   
+   }
+
+  .banner{
+    color: grey;
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    gap: 15px;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+  }
+
+  .bannerLink{
+    text-decoration: none;
+    color: #0078D4;
+    transition: transform 0.3s linear;
+  }
+
+  .bannerLink:hover{
+    
+    transform: scale(1.3) ;
+    text-decoration:dashed;
+  }
+
+  .navLinks a:hover{
+   
+    color: white;
+  }
+
+  .heroContainer{
+  position: relative;
+    background: linear-gradient(180deg, #0e0e0e 0%, #141414 100%);
+     color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 7.5rem 0 4rem 0;
+
+    font-family: sans-serif;
+    
+   
+  }
+
+ 
+  .hero{
+    padding-left: 9rem;
+  }
+
+ 
+
+  .middleoneContainer h1{
+    
+    font-size: 50px;
+    
+  }
+  .Boldtext h1{
+    padding-bottom: 10px;
+  }
+  .downloadbutton2{
+    padding-top: 10px;
+  }
+  
+  .downloadbutton2 button{
+    background-color:#0078D4 ;
+    color: white;
+    padding: 15px 20px;
+    font-weight: 200;
+   border-radius: 4px;
+   border: 1px solid #0078D4;
+   font-size: 1.2rem;
+  transition:  0.4s linear;
+   
+  }
+
+  .downloadbutton2 button:hover{
+    background-color: #e0a800;;
+    color: white;
+    cursor: pointer;
+    transition:0.4s linear;
+
+  }
+
+  .firstext{
+    display: inline-block;
+       padding: 10px;
+       border: 1px solid black;
+        background-color:#1A1A1A;
+        border-radius: 30px;
+        color: #9BA3B4;
+  }
+
+
+
+    
+      .container {
+        width: 1200px;
+        margin: 0 auto;
+        display: grid;
+        grid-template-columns: 1fr 2fr;
+        gap: 10px;
+       
+        color: black;
+        padding-top: 40px;
+        font-family: sans-serif;
+        font-weight: 300px;
+        font-style: normal;
+      }
+
+      .left {
+        color: grey;
+        font-size: medium;
+        font-weight: 100;
+        padding-inline: 2rem;
+        padding-left: 0px;
+
+        
+    
+     
+      }
+
+      .right {
+        color: white;
+        padding-left: 50px;
+       
+       
+        
+      }
+    
+      .grid1 {
+        display: grid;
+        row-gap: 10px;
+       grid-template-columns: 1fr 1fr 1fr;
+
+      }
+      .horizontal-align{
+     margin: 0 auto;
+      }
+
+      .flex{
+        display: flex;
+      }
+      .right img{
+        height: 40px;
+        width: auto;
+      }
+      .verticalCenter{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+         height: 100%;
+         padding-top: 4px;
+         
+      }
+
+      #captionstyle{
+        padding-top: 30px;
+        
+          color: #9BA3B4;  
+        
+        font-size: 16px;
+        line-height: 1.6;  
+        width: 370px;
+
+        
+      }
+
+      .middleimage img{
+        position: absolute;
+        top: 25px;
+        left: 850px;
+
+         
+     
+         
+         height: 45vh;
+      }
