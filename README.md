@@ -31,7 +31,7 @@ This project was created as a UI practice exercise to recreate the design, layou
 
 ## Preview
 
-(Add screenshot after uploading to GitHub)
+
 
 
 
