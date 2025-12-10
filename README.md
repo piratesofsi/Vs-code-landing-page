@@ -35,7 +35,8 @@ This project was created as a UI practice exercise to recreate the design, layou
 
 
 
-![Project Preview](path/to/screenshot.png)
+![Project Preview](https://raw.githubusercontent.com/your-username/vs-code-landing-page/main/screenshot.png
+)
 
 
 
