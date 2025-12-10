@@ -56,7 +56,7 @@ vs-code-landing-page/
 
 ## Live Demo
 
-(After enabling GitHub Pages)
+
 
 
 
