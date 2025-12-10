@@ -35,7 +35,7 @@ This project was created as a UI practice exercise to recreate the design, layou
 
 
 
-![Project Preview](https://raw.githubusercontent.com/your-username/vs-code-landing-page/main/screenshot.png
+![Project Preview](https://raw.githubusercontent.com/piratesofsi/vs-code-landing-page/main/screenshot.png
 )
 
 
